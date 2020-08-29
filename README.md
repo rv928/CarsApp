@@ -21,6 +21,8 @@
 ## API and parser
 - Alarmofire and SwiftyJSON
 
+## Offline Feature
+Core Data
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
