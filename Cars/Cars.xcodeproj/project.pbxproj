@@ -22,7 +22,6 @@
 		B166BD1024F503CF00A0D291 /* CarsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B166BD0F24F503CF00A0D291 /* CarsUITests.swift */; };
 		B166BD3424F50AE800A0D291 /* Dictionary+Decoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = B166BD1F24F50AE800A0D291 /* Dictionary+Decoder.swift */; };
 		B166BD3524F50AE800A0D291 /* Tools.swift in Sources */ = {isa = PBXBuildFile; fileRef = B166BD2124F50AE800A0D291 /* Tools.swift */; };
-		B166BD3624F50AE800A0D291 /* UIImageView+Cache.swift in Sources */ = {isa = PBXBuildFile; fileRef = B166BD2324F50AE800A0D291 /* UIImageView+Cache.swift */; };
 		B166BD3724F50AE800A0D291 /* UIAlertControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B166BD2424F50AE800A0D291 /* UIAlertControllerExtension.swift */; };
 		B166BD3824F50AE800A0D291 /* UIView+Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = B166BD2524F50AE800A0D291 /* UIView+Gradient.swift */; };
 		B166BD3924F50AE800A0D291 /* UIColor+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = B166BD2624F50AE800A0D291 /* UIColor+Hex.swift */; };
@@ -95,7 +94,6 @@
 		B166BD1124F503CF00A0D291 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B166BD1F24F50AE800A0D291 /* Dictionary+Decoder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Dictionary+Decoder.swift"; sourceTree = "<group>"; };
 		B166BD2124F50AE800A0D291 /* Tools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tools.swift; sourceTree = "<group>"; };
-		B166BD2324F50AE800A0D291 /* UIImageView+Cache.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImageView+Cache.swift"; sourceTree = "<group>"; };
 		B166BD2424F50AE800A0D291 /* UIAlertControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIAlertControllerExtension.swift; sourceTree = "<group>"; };
 		B166BD2524F50AE800A0D291 /* UIView+Gradient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Gradient.swift"; sourceTree = "<group>"; };
 		B166BD2624F50AE800A0D291 /* UIColor+Hex.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Hex.swift"; sourceTree = "<group>"; };
@@ -288,7 +286,6 @@
 		B166BD2224F50AE800A0D291 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				B166BD2324F50AE800A0D291 /* UIImageView+Cache.swift */,
 				B166BD2424F50AE800A0D291 /* UIAlertControllerExtension.swift */,
 				B166BD2524F50AE800A0D291 /* UIView+Gradient.swift */,
 				B166BD2624F50AE800A0D291 /* UIColor+Hex.swift */,
@@ -636,7 +633,6 @@
 				B166BD3524F50AE800A0D291 /* Tools.swift in Sources */,
 				B166BD3C24F50AE800A0D291 /* UIConstant.swift in Sources */,
 				B166BD5A24F52ED600A0D291 /* CarCell.swift in Sources */,
-				B166BD3624F50AE800A0D291 /* UIImageView+Cache.swift in Sources */,
 				B166BD3424F50AE800A0D291 /* Dictionary+Decoder.swift in Sources */,
 				B166BD4024F50AE800A0D291 /* SceneDelegate.swift in Sources */,
 				B166BD4E24F5259900A0D291 /* CarListWorker.swift in Sources */,

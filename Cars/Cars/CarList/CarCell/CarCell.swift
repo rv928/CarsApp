@@ -67,6 +67,8 @@ class CarCell: UITableViewCell {
                     })
                 }
             }
+        } else {
+            self.bannerImageView.image = UIImage(named: UIConstant.Images.noImageLarge)
         }
         let colorSet = [UIColor.clear,
                         UIColor(red: 0/255, green: 0/255, blue: 0/255, alpha: 1.0)]
